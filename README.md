@@ -5,7 +5,7 @@ A Node.js module that generates inspiring quotes from Mustafa Kemal Atatürk. Cu
 
 ```bash
 npm install ataturk-quotes-generator
-
+```
 ### test.js
 
 ```javascript
@@ -31,3 +31,4 @@ testCases.forEach((testCase, index) => {
   console.log(quotes(testCase.options));
   console.log('---');
 });
+```
