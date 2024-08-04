@@ -4,7 +4,7 @@ A Node.js module that generates inspiring quotes from Mustafa Kemal Atatürk. Cu
 ## 🚀 Installation
 
 ```bash
-npm install ataturk-quotes-generator
+npm install ataturk-words
 ```
 ### test.js
 
